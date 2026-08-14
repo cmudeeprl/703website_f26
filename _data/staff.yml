@@ -6,12 +6,19 @@ Instructors:
       location: outside TEP 1403
       image: staff/katef.jpeg
 
-    - name: Aviral Kumar
-      email: aviralku@andrew.cmu.edu
-      url: https://aviralkumar2907.github.io/
-      office-hours: Monday & Wednesday 10:50 - 11:20 AM
+    - name: Max Simchowitz
+      email: msimchow@andrew.cmu.edu
+      url: 
+      office-hours: TBD
       location: outside TEP 1403
-      image: staff/aviral.jpg
+      image: 
+    
+    # - name: Aviral Kumar
+    #   email: aviralku@andrew.cmu.edu
+    #   url: https://aviralkumar2907.github.io/
+    #   office-hours: Monday & Wednesday 10:50 - 11:20 AM
+    #   location: outside TEP 1403
+    #   image: staff/aviral.jpg
 
 EducationAssociates:
     - name: Joshmin Ray
@@ -21,68 +28,146 @@ EducationAssociates:
       image: staff/Joshmin.jpeg
 
 TAs:
-    - name: Douglas Chen
-      email: dchen3@andrew.cmu.edu
-      url: 
-      office-hours: Fri 3-4PM
-      location: GHC 8228
-      image: staff/Douglas_Chen.jpg
 
-    - name: Lawrence Jang
-      email: ljang@andrew.cmu.edu
+    - name: Elizabeth Terveen
+      email: eterveen@andrew.cmu.edu
       url: 
-      office-hours: Tue, Thu 1-2PM
-      location: GHC 8019
-      image: staff/LJang.png
+      office-hours: TBD
+      location: GHC 8014
+      image: 
+    
+    - name: Nai-Chieh Huang
+      email: naichieh@andrew.cmu.edu
+      url: 
+      office-hours: TBD
+      location: GHC 8014
+      image: 
 
+    - name: Ayush Tarachandani
+      email: ataracha@andrew.cmu.edu
+      url: 
+      office-hours: TBD
+      location: GHC 8014
+      image: 
+    
+    - name: Shashwat Saxena
+      email: ssaxena2@andrew.cmu.edu
+      url: 
+      office-hours: TBD
+      location: GHC 8014
+      image: 
+    
+    - name: Dustin Miao
+      email: dustinmi@andrew.cmu.edu
+      url: 
+      office-hours: TBD
+      location: GHC 8014
+      image: 
+
+    - name: Kshitiz Kshitiz
+      email: kshitiz2@andrew.cmu.edu
+      url: 
+      office-hours: TBD
+      location: GHC 8014
+      image: 
+    
+    - name: Shreya Kowshik
+      email: skowshik@andrew.cmu.edu
+      url: 
+      office-hours: TBD
+      location: GHC 8014
+      image: 
+    
+    - name: Devanshu Shah
+      email: devanshu@andrew.cmu.edu
+      url: 
+      office-hours: TBD
+      location: GHC 8014
+      image: 
+
+    - name: Nikash Bhardwaj
+      email: nikashb@andrew.cmu.edu
+      url: 
+      office-hours: TBD
+      location: GHC 8014
+      image: 
+    
+    - name: TBD
+      email: TBD
+      url: 
+      office-hours: TBD
+      location: GHC 8014
+      image: 
+    
+    - name: Grace Liu
+      email: gliu2@andrew.cmu.edu
+      url: 
+      office-hours: TBD
+      location: GHC 8014
+      image: staff/Grace_Liu.jpg
+    
     - name: Gene Yang
       email: geney@andrew.cmu.edu
       url: https://3n3g.github.io/
-      office-hours: Mon 1-2PM, Thu 3-4PM
+      office-hours: TBD
       location: GHC 8014
       image: staff/Gene.jpg
-
-    - name: Max Sobol Mark
-      email: jsobolma@andrew.cmu.edu
-      url: https://maxsobolmark.com/
-      office-hours: Mon, Wed 2-3PM
-      location: GHC 8014
-      image: staff/Max.jpg
     
-    - name: Li Cao
-      email: licao@andrew.cmu.edu
-      url: https://l1-ca0.github.io
-      office-hours: Tue, Thu 4-5PM
-      location: GHC 8014, GHC 8228
-      image: staff/Li.png
+    # - name: Douglas Chen
+    #   email: dchen3@andrew.cmu.edu
+    #   url: 
+    #   office-hours: Fri 3-4PM
+    #   location: GHC 8228
+    #   image: staff/Douglas_Chen.jpg
 
-    - name: Matthew Bronars
-      email: mbronars@andrew.cmu.edu
-      url: https://mbronars.github.io/
-      office-hours: Tue, Thu 12-1PM
-      location: GHC 8014
-      image: staff/Bronars.JPG
+    # - name: Lawrence Jang
+    #   email: ljang@andrew.cmu.edu
+    #   url: 
+    #   office-hours: Tue, Thu 1-2PM
+    #   location: GHC 8019
+    #   image: staff/LJang.png
+
+    # - name: Max Sobol Mark
+    #   email: jsobolma@andrew.cmu.edu
+    #   url: https://maxsobolmark.com/
+    #   office-hours: Mon, Wed 2-3PM
+    #   location: GHC 8014
+    #   image: staff/Max.jpg
     
-    - name: Nidhi Hegde
-      email: nidhih@andrew.cmu.edu
-      url: 
-      office-hours: Mon 5-6PM, Fri 2:30-3:30PM
-      location: GHC 8014
-      image: staff/Nidhi.jpeg
+    # - name: Li Cao
+    #   email: licao@andrew.cmu.edu
+    #   url: https://l1-ca0.github.io
+    #   office-hours: Tue, Thu 4-5PM
+    #   location: GHC 8014, GHC 8228
+    #   image: staff/Li.png
+
+    # - name: Matthew Bronars
+    #   email: mbronars@andrew.cmu.edu
+    #   url: https://mbronars.github.io/
+    #   office-hours: Tue, Thu 12-1PM
+    #   location: GHC 8014
+    #   image: staff/Bronars.JPG
+    
+    # - name: Nidhi Hegde
+    #   email: nidhih@andrew.cmu.edu
+    #   url: 
+    #   office-hours: Mon 5-6PM, Fri 2:30-3:30PM
+    #   location: GHC 8014
+    #   image: staff/Nidhi.jpeg
 
     
-    - name: Kashu Yamazaki
-      email: kyamazak@andrew.cmu.edu
-      url: https://kashu7100.github.io/
-      office-hours: Mon, Fri 4-5PM
-      location: NSH 4604
-      image: staff/Kashu.png
+    # - name: Kashu Yamazaki
+    #   email: kyamazak@andrew.cmu.edu
+    #   url: https://kashu7100.github.io/
+    #   office-hours: Mon, Fri 4-5PM
+    #   location: NSH 4604
+    #   image: staff/Kashu.png
 
-    - name: Vansh Kapoor
-      email: vanshk@andrew.cmu.edu
-      url: https://vansh28kapoor.github.io/
-      office-hours: Tue, 3:30-4:30PM
-      location: TEP 1402
-      image: staff/Vansh.png
+    # - name: Vansh Kapoor
+    #   email: vanshk@andrew.cmu.edu
+    #   url: https://vansh28kapoor.github.io/
+    #   office-hours: Tue, 3:30-4:30PM
+    #   location: TEP 1402
+    #   image: staff/Vansh.png
 
   
