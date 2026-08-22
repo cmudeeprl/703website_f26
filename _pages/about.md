@@ -41,7 +41,7 @@ Students should have a solid understanding of the following areas
 - **Recitations:** Friday 9:30 AM - 10:50 AM
 - **Lecture/Recitation Location:** TEP 1403
 <!-- - **Office Hours Location:** [Gates-Hillman Center 8228](https://goo.gl/maps/74vUj6uoaTTzYM937){:target="\_blank"} -->
-- **Discussion:** [Piazza](https://piazza.com/class/mt0ic7om1ee4fi/){:target="\_blank"}
+- **Discussion:** [Piazza](https://piazza.com/class/mt0ic7om1ee4fi){:target="\_blank"}
 - **HW submission:** [Gradescope](https://www.gradescope.com/courses/1358938){:target="\_blank"}
 - **Contact:** For external enquiries, personal matters or in emergencies, you can email the Course EA: Joshmin Ray.
 
