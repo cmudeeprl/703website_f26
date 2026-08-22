@@ -11,7 +11,7 @@ Instructors:
       url: 
       office-hours: TBD
       location: outside TEP 1403
-      image: 
+      image: staff/Max.jpg
     
     # - name: Aviral Kumar
     #   email: aviralku@andrew.cmu.edu
@@ -41,7 +41,7 @@ TAs:
       url: 
       office-hours: TBD
       location: GHC 8014
-      image: 
+      image: staff/Nai-Chieh-Huang.jpg
 
     - name: Ayush Tarachandani
       email: ataracha@andrew.cmu.edu
@@ -55,7 +55,7 @@ TAs:
       url: 
       office-hours: TBD
       location: GHC 8014
-      image: 
+      image: staff/Shashwat.jpg
     
     - name: Dustin Miao
       email: dustinmi@andrew.cmu.edu
@@ -71,12 +71,12 @@ TAs:
       location: GHC 8014
       image: 
     
-    - name: Shreya Kowshik
+    - name: Shreyas Kowshik
       email: skowshik@andrew.cmu.edu
       url: 
       office-hours: TBD
       location: GHC 8014
-      image: 
+      image: staff/Shreyas.jpg
     
     - name: Devanshu Shah
       email: devanshu@andrew.cmu.edu
