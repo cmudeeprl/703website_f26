@@ -113,7 +113,7 @@
   notes: 
   video:
   readings:
-  logistics: <span class="deadline"> HW1 Due </span>, <span class="event"> HW2 Out </span> <br>
+  logistics: <span class="event"> HW2 Out </span> <br> <span class="deadline"> HW1 Due </span>
 
 - date: M 09/14
   lecturer: 
@@ -215,7 +215,7 @@
   notes:
   readings:
     
-  logistics: <span class="deadline"> HW4 Out </span> <br> <span class="deadline"> HW3 Due </span>
+  logistics: <span class="event"> HW4 Out </span> <br> <span class="deadline"> HW3 Due </span>
 
 
 - date: T 09/29 
@@ -289,7 +289,7 @@
   video: #https://drive.google.com/file/d/11PfJP0r8TRcSh6Jygm931v4RQ0Rnvvkc/view?usp=sharing
   notes:
   readings:
-  logistics: <span class="deadline"> HW5 Out </span> <br> <span class="deadline"> HW4 Due </span>
+  logistics: <span class="event"> HW5 Out </span> <br> <span class="deadline"> HW4 Due </span>
 
 # - date: S 10/12
 #   lecturer:
@@ -468,7 +468,7 @@
     - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
     - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
     - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
-  logistics: <span class="deadline"> HW7 Out </span> <br> <span class="deadline"> HW6 Due </span>
+  logistics: <span class="event"> HW7 Out </span> <br> <span class="deadline"> HW6 Due </span>
 
 - date: F 11/13
   lecturer:
@@ -479,7 +479,7 @@
   video:
   notes:
   readings:
-  logistics: <span class="deadline">HW6 Due</span> <br>
+  logistics: #<span class="deadline">HW6 Due</span> <br>
 
 - date: M 11/16
   lecturer: 
