@@ -3,7 +3,7 @@
   title: >
     <strong>Welcome and Introduction to the Class</strong>
   slides: https://www.dropbox.com/scl/fi/omry6nvifuckczfb1b7a9/lecture1_introF26.key?rlkey=76wi8laa7enclrm73rexcq36q&dl=0
-  slides2: #https://www.dropbox.com/scl/fi/03ant3g0t8kqeqaz5lo5w/lecture1_introF25.pdf?rlkey=6lu21m7yaz63e8r29ecpw1mcp&dl=0
+  slides2: https://drive.google.com/file/d/1FbRK5K0LJtxxVSoo1NtZbb5ImuUvNBeS/view?usp=sharing
   video:
   notes:
   readings:
@@ -160,7 +160,7 @@
     # - <a href="https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf"> Approximately Optimal Approximate RL </a>
     # - <a href="https://arxiv.org/abs/1910.00177"> Advantage-weighted regression </a>
     # - <a href="https://arxiv.org/abs/1707.06347"> Proximal Policy Optimization Algorithms </a>
-  logistics: <span class="event"> HW3 Out </span> <br> <span class="deadline"> HW2 Due </span>
+  logistics: 
 
 - date: M 09/21
   lecturer: 
@@ -174,21 +174,21 @@
     -  <a href="https://arxiv.org/abs/1812.05905"> Soft Actor-Critic Algorithms and Applications </a> 
     # -  <a href="https://arxiv.org/abs/1707.06347"> Proximal Policy Optimization Algorithms </a>
   video:
-  logistics: 
+  logistics: <span class="event"> HW3 Out </span> <br> <span class="deadline"> HW2 Due </span>
 
 
 - date: W 09/23
   lecturer: 
   title: >
-    <strong> Imitation Learning </strong>
+    <strong> Off-Policy Actor-Critic and Max-Ent RL </strong>
   slides: #https://drive.google.com/file/d/1uv7pT_6lUfRNhwZrdi3AVSXuJ-QaMz2S/view?usp=sharing
   slides2: #https://drive.google.com/file/d/1ux1VtaQDKj-EuEVQT6Vcss1j7gykelD1/view?usp=sharing
   readings:
-    - (optional) Chen et al. <a href="https://arxiv.org/abs/1912.12294" target="_blank">Learning by Cheating</a>
-    - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>, Up To Page 10
-    - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
-    - Andrychowicz et al.<a href="https://arxiv.org/pdf/1707.01495.pdf" target="_blank"> Hindsight Experience Replay</a>
-    - Ding et al.<a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank"> Goal-conditioned Imitation Learning</a>
+    # - (optional) Chen et al. <a href="https://arxiv.org/abs/1912.12294" target="_blank">Learning by Cheating</a>
+    # - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>, Up To Page 10
+    # - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
+    # - Andrychowicz et al.<a href="https://arxiv.org/pdf/1707.01495.pdf" target="_blank"> Hindsight Experience Replay</a>
+    # - Ding et al.<a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank"> Goal-conditioned Imitation Learning</a>
   video:
   logistics:
 
@@ -204,19 +204,20 @@
   readings:
   logistics:
   
-
-
 - date: M 09/28
   lecturer: 
   title: >
-    <strong>Imitation Learning & Generative Modeling </strong>
-  slides: #https://www.dropbox.com/scl/fi/59nr1azmj1dv71lzunjp4/immitationlearning_F25.pdf?rlkey=tbgdaxs7v4cilqaqau4blcyp8&dl=0
-  video:
-  notes:
+    <strong> Imitation Learning </strong>
+  slides: #https://drive.google.com/file/d/1uv7pT_6lUfRNhwZrdi3AVSXuJ-QaMz2S/view?usp=sharing
+  slides2: #https://drive.google.com/file/d/1ux1VtaQDKj-EuEVQT6Vcss1j7gykelD1/view?usp=sharing
   readings:
-    
-  logistics: <span class="event"> HW4 Out </span> <br> <span class="deadline"> HW3 Due </span>
-
+    - (optional) Chen et al. <a href="https://arxiv.org/abs/1912.12294" target="_blank">Learning by Cheating</a>
+    - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>, Up To Page 10
+    - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
+    - Andrychowicz et al.<a href="https://arxiv.org/pdf/1707.01495.pdf" target="_blank"> Hindsight Experience Replay</a>
+    - Ding et al.<a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank"> Goal-conditioned Imitation Learning</a>
+  video:
+  logistics:
 
 - date: T 09/29 
   lecturer:
@@ -225,6 +226,38 @@
   logistics: <span class="event"> Project Description Out (tentative) </span> <br>
 
 - date: W 09/30
+  lecturer: 
+  title: >
+    <strong> Imitation Learning and Diffusion </strong>
+  slides: #https://www.dropbox.com/scl/fi/59nr1azmj1dv71lzunjp4/immitationlearning_F25.pdf?rlkey=tbgdaxs7v4cilqaqau4blcyp8&dl=0
+  video:
+  notes:
+  readings:
+    
+  logistics: <span class="event"> HW4 Out </span> <br> 
+
+- date: F 10/02
+  lecturer:
+  title:
+  recitation: >
+    <strong> Midterm Review & HW4 </strong>
+  slides: 
+  video:
+  notes:
+  readings:
+  logistics: <span class="deadline"> HW3 Due </span>
+
+- date: M 10/05
+  lecturer:
+  quiz: >
+    <strong> Midterm (in class) </strong>
+  title: 
+  slides: #https://www.dropbox.com/scl/fi/3s2uk0oj6kebuqy8qvzij/MBRLsensoryF25.pdf?rlkey=bjog8hcj78mnz1z5tjqxbudc8&dl=0
+  video:
+  readings:
+  logistics: 
+
+- date: W 10/07
   lecturer: 
   title: >
      <strong>Reinforcement Learning & Generative Modeling </strong>
@@ -239,57 +272,16 @@
   logistics: 
 
 
-- date: F 10/02
-  lecturer:
-  title:
-  recitation: >
-    <strong> Midterm Review </strong>
-  slides: 
-  video:
-  notes:
-  readings:
-  logistics:
-
-
-- date: M 10/05
-  lecturer: 
-  title: >
-    <strong>Offline RL & HW5</strong>
-  slides:    #https://www.dropbox.com/scl/fi/exp843p5zk9t7oohb96ne/MBRLexplicitF25.pdf?rlkey=k8wgi03prtqgac9qljyihopct&dl=0
-  video:
-  readings:
-    - Kumar and Levine <a href="https://drive.google.com/file/d/1_aJxnlwLsJYup-__qKi-ZnujQho6ibDk/view"> Offline RL Tutorial, NeurIPS 2020 </a>
-    - Levine et al. <a href="https://arxiv.org/abs/2005.01643"> Offline Reinforcement Learning&#58; Tutorial, Review, and Perspectives on Open Problems </a>
-    - Kumar et al. <a href="https://arxiv.org/abs/1906.00949"> Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction </a>
-    # - Kumar et al. <a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-223.pdf"> Reinforcement Learning from Static Datasets (Chapters 1 to 5) </a>
-    - Fujimoto et al. <a href="https://arxiv.org/abs/2106.06860" target="_blank">A Minimalist Approach to Offline Reinforcement Learning</a>
-    # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
-    # - Kumar and Levine <a href="https://sites.google.com/view/offlinerltutorial-neurips2020/home"> Offline RL Tutorial, NeurIPS 2020 </a>
-  logistics: 
-
-
-- date: W 10/07
-  lecturer:
-  quiz: >
-    <strong> Midterm (in class) </strong>
-  title: 
-  slides: #https://www.dropbox.com/scl/fi/3s2uk0oj6kebuqy8qvzij/MBRLsensoryF25.pdf?rlkey=bjog8hcj78mnz1z5tjqxbudc8&dl=0
-  video:
-  readings:
-  logistics:  
-
-
-
 - date: F 10/09
   lecturer:
   title:
   recitation: >
-    <strong> IL Diffusion Policies and HW5 </strong>
+    <strong> IL Diffusion Policies </strong>
   slides: #https://docs.google.com/presentation/d/11QEzc7FrLxPwz_dvYk_AhYb5pZDt3ufl/edit?usp=sharing&ouid=115850382795288871894&rtpof=true&sd=true
   video: #https://drive.google.com/file/d/11PfJP0r8TRcSh6Jygm931v4RQ0Rnvvkc/view?usp=sharing
   notes:
   readings:
-  logistics: <span class="event"> HW5 Out </span> <br> <span class="deadline"> HW4 Due </span>
+  logistics: <span class="deadline"> HW4 Due </span>
 
 # - date: S 10/12
 #   lecturer:
@@ -321,6 +313,23 @@
 - date: M 10/19
   lecturer: 
   title: >
+    <strong> Offline RL </strong>
+  slides:    #https://www.dropbox.com/scl/fi/exp843p5zk9t7oohb96ne/MBRLexplicitF25.pdf?rlkey=k8wgi03prtqgac9qljyihopct&dl=0
+  video:
+  readings:
+    - Kumar and Levine <a href="https://drive.google.com/file/d/1_aJxnlwLsJYup-__qKi-ZnujQho6ibDk/view"> Offline RL Tutorial, NeurIPS 2020 </a>
+    - Levine et al. <a href="https://arxiv.org/abs/2005.01643"> Offline Reinforcement Learning&#58; Tutorial, Review, and Perspectives on Open Problems </a>
+    - Kumar et al. <a href="https://arxiv.org/abs/1906.00949"> Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction </a>
+    # - Kumar et al. <a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-223.pdf"> Reinforcement Learning from Static Datasets (Chapters 1 to 5) </a>
+    - Fujimoto et al. <a href="https://arxiv.org/abs/2106.06860" target="_blank">A Minimalist Approach to Offline Reinforcement Learning</a>
+    # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    # - Kumar and Levine <a href="https://sites.google.com/view/offlinerltutorial-neurips2020/home"> Offline RL Tutorial, NeurIPS 2020 </a>
+  logistics: 
+
+
+- date: W 10/21
+  lecturer: 
+  title: >
     <strong>Model-based Methods</strong>
   slides: #https://drive.google.com/file/d/16Qz-w5Si8gYiUHoZRKOlq322-Sii3xBt/view?usp=sharing
   slides2:
@@ -334,8 +343,18 @@
     # - Hafner et al. <a href="https://arxiv.org/abs/2301.04104" target="_blank">Dreamer</a>
   logistics: 
 
+- date: F 10/23
+  lecturer:
+  title:
+  recitation: >
+    <strong> Midterm Solution Session & HW5 </strong>
+  slides: 
+  video:
+  notes:
+  readings:
+  logistics: <span class="deadline">Project Team Formation and Project Proposal Due (tentative)</span> <br>
 
-- date: W 10/21
+- date: M 10/26
   lecturer: 
   title: >
     <strong>Model-based Methods(Cont.)</strong>
@@ -353,20 +372,10 @@
     # - Kumar et al. <a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-223.pdf"> Reinforcement Learning from Static Datasets (Chapters 1 to 5) </a>
     # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
     # - Kumar and Levine <a href="https://sites.google.com/view/offlinerltutorial-neurips2020/home"> Offline RL Tutorial, NeurIPS 2020 </a>
-  logistics:  
+  logistics:  <span class="event"> HW5 Out </span> <br>
 
-- date: F 10/23
-  lecturer:
-  title:
-  recitation: >
-    <strong> Midterm Solution Session </strong>
-  slides: 
-  video:
-  notes:
-  readings:
-  logistics: <span class="deadline">Project Team Formation and Project Proposal Due (tentative)</span> <br>
 
-- date: M 10/26
+- date: W 10/28
   lecturer:
   title: >
     <strong>Model-based Methods(Cont.), Learning and Tree-Search Planning</strong>
@@ -378,9 +387,20 @@
     - (optional) David Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
     - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
     - David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
-  logistics: <span class="event"> HW6 Out </span> <br> <span class="deadline"> HW5 Due </span>
+  logistics: 
+  
+- date: F 10/30
+  lecturer:
+  title:
+  recitation: >
+    <strong> TD-MPC, PETS, and HW6 </strong>
+  slides: #https://docs.google.com/presentation/d/1h-jJLcP6wBGf1eJ__S7saT4EqW_ZFQnrDCu93t15g0E/edit?usp=sharing
+  video:
+  notes:
+  readings:
+  logistics:
 
-- date: W 10/28
+- date: M 11/02
   lecturer: 
   title: >
     <strong>Model-based Methods for offline RL</strong>
@@ -395,18 +415,8 @@
     - Rahul et al. <a href="https://arxiv.org/abs/2005.05951" target="_blank">MOReL - Model-Based Offline Reinforcement Learning</a>
   logistics: #<span class="deadline">HW5 Due</span> <br>
 
-- date: F 10/30
-  lecturer:
-  title:
-  recitation: >
-    <strong> TD-MPC, PETS, and HW6 </strong>
-  slides: #https://docs.google.com/presentation/d/1h-jJLcP6wBGf1eJ__S7saT4EqW_ZFQnrDCu93t15g0E/edit?usp=sharing
-  video:
-  notes:
-  readings:
-  logistics:
 
-- date: M 11/02
+- date: W 11/04
   lecturer:
   title: >
     <strong> Guided Diffusion </strong>
@@ -418,20 +428,6 @@
     - (optional) Yang et al. <a href="https://arxiv.org/abs/2402.06559" target="_blank">Diffusion-ES Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following</a>  
     
   logistics:  #<span class="event">HW6 Out</span> <br>
-
-- date: W 11/04
-  lecturer: 
-  title: >
-    <strong> Exploration </strong>
-  slides: #https://www.dropbox.com/scl/fi/v58zkjyohf4kx14vsrmzc/deepexplorationF25_2.pdf?rlkey=lztprnzdsddt44ux8v5785ga0&dl=0
-  slides2:
-  video:
-  notes:
-  readings:
-    - Pathak et al. <a href="https://arxiv.org/abs/1705.05363" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
-    - Burda et al. <a href="https://arxiv.org/abs/1810.12894" target="_blank">Exploration by Random Network Distillation</a>
-  logistics:
-  
 
 - date: F 11/06
   lecturer:
@@ -445,7 +441,20 @@
     
   logistics:
 
-- date: M 11/09
+- date: M 11/09  
+  lecturer: 
+  title: >
+    <strong> Exploration </strong>
+  slides: #https://www.dropbox.com/scl/fi/v58zkjyohf4kx14vsrmzc/deepexplorationF25_2.pdf?rlkey=lztprnzdsddt44ux8v5785ga0&dl=0
+  slides2:
+  video:
+  notes:
+  readings:
+    - Pathak et al. <a href="https://arxiv.org/abs/1705.05363" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
+    - Burda et al. <a href="https://arxiv.org/abs/1810.12894" target="_blank">Exploration by Random Network Distillation</a>
+  logistics:
+  
+- date: W 11/11
   lecturer:
   title: >
     <strong> Sim2Real Learning </strong>
@@ -454,22 +463,8 @@
     - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
     - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
     - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
-  logistics:
+  logistics: <span class="event"> HW6 Out </span> <br> <span class="deadline"> HW5 Due </span>
    
-- date: W 11/11
-  lecturer: 
-  title: >
-    <strong> Sim2Real Learning (Cont.) R</strong>
-  slides: #https://www.dropbox.com/scl/fi/38q3itnsspybc1kpmzerk/sim2realF25.pdf?rlkey=wtiui4zdzlyd5xjclab8mqzix&dl=0
-  slides2: 
-  video:
-  notes:
-  readings:
-    - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
-    - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
-    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
-  logistics: <span class="event"> HW7 Out </span> <br> <span class="deadline"> HW6 Due </span>
-
 - date: F 11/13
   lecturer:
   title:
@@ -481,7 +476,21 @@
   readings:
   logistics: #<span class="deadline">HW6 Due</span> <br>
 
-- date: M 11/16
+- date: M 11/16  
+  lecturer: 
+  title: >
+    <strong> Sim2Real Learning (Cont.) R</strong>
+  slides: #https://www.dropbox.com/scl/fi/38q3itnsspybc1kpmzerk/sim2realF25.pdf?rlkey=wtiui4zdzlyd5xjclab8mqzix&dl=0
+  slides2: 
+  video:
+  notes:
+  readings:
+    - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
+    - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
+    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
+  logistics: 
+
+- date: W 11/18
   lecturer: 
   title: >
     <strong> RL with Foundation Models </strong>
@@ -493,20 +502,8 @@
     - Ouyang et al. <a href="https://arxiv.org/abs/2203.02155" target="_blank">Training language models to follow instructions with human feedback</a>
     - Slides <a href="https://web.stanford.edu/class/cs234/CS234Spr2024/slides/dpo_slides.pdf" target="_blank">Direct Preference Optimization&#58; A New RLHF Approach</a>
     - Xu et al. <a href="https://arxiv.org/abs/2404.10719" target="_blank">Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study</a>    
-  logistics:
+  logistics: <span class="deadline"> Project Midway Report Due </span> <br>
 
-- date: W 11/18
-  lecturer: 
-  title: >
-    <strong> RL with Foundation Models (Cont.) </strong>
-  slides: #https://drive.google.com/file/d/1-U1V7FiUD70YQMB-ODculPx4NGsMOckV/view?usp=sharing
-  notes:
-  readings:
-    - Ouyang et al. <a href="https://arxiv.org/abs/2203.02155" target="_blank">Training language models to follow instructions with human feedback</a>
-    - Slides <a href="https://web.stanford.edu/class/cs234/CS234Spr2024/slides/dpo_slides.pdf" target="_blank">Direct Preference Optimization&#58; A New RLHF Approach</a>
-    - Xu et al. <a href="https://arxiv.org/abs/2404.10719" target="_blank">Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study</a>
-  logistics:  <span class="deadline"> Project Midway Report Due </span> <br>
-  
 - date: F 11/20
   lecturer:
   title:
@@ -517,6 +514,19 @@
   notes:
   readings:
   logistics: 
+
+- date: M 11/23  
+  lecturer: 
+  title: >
+    <strong> RL with Foundation Models (Cont.) </strong>
+  slides: #https://drive.google.com/file/d/1-U1V7FiUD70YQMB-ODculPx4NGsMOckV/view?usp=sharing
+  notes:
+  readings:
+    - Ouyang et al. <a href="https://arxiv.org/abs/2203.02155" target="_blank">Training language models to follow instructions with human feedback</a>
+    - Slides <a href="https://web.stanford.edu/class/cs234/CS234Spr2024/slides/dpo_slides.pdf" target="_blank">Direct Preference Optimization&#58; A New RLHF Approach</a>
+    - Xu et al. <a href="https://arxiv.org/abs/2404.10719" target="_blank">Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study</a>
+  logistics:  <span class="event"> HW7 Out </span> <br> <span class="deadline"> HW6 Due </span>
+  
   
 # - date: W 11/19
 #   title: >
@@ -526,22 +536,6 @@
 #   notes:
 #   readings:
 #   logistics: 
-
-
-- date: M 11/23
-  lecturer:
-  title: > 
-    <strong> Goal-Driven Reasoning for Multimodal AI Agents </strong>
-  recitation: 
-  slides: #https://www.dropbox.com/scl/fi/v4baj87sv5tuoofa1q8gm/rldiffusionF25.pdf?rlkey=f4j1zyqvj81r5oevx0s3997x9&dl=0
-  slides2: 
-  video:
-  notes:
-  readings:
-   - Sarch et al. <a href="https://arxiv.org/abs/2505.23678" target="_blank">Grounded Reinforcement Learning for Visual Reasoning</a>
-   - Sarch et al. <a href="https://arxiv.org/abs/2406.14596" target="_blank">VLM Agents Generate Their Own Memories </a>
-  logistics: <span class="deadline"> HW7 Due </span>
-  
 
 - date: W 11/25
   lecturer:
@@ -554,8 +548,22 @@
   quiz: >
     <strong> Thanksgiving Break - No Recitation </strong>
   logistics:
-  
+
 - date: M 11/30
+  lecturer:
+  title: > 
+    <strong> Goal-Driven Reasoning for Multimodal AI Agents </strong>
+  recitation: 
+  slides: #https://www.dropbox.com/scl/fi/v4baj87sv5tuoofa1q8gm/rldiffusionF25.pdf?rlkey=f4j1zyqvj81r5oevx0s3997x9&dl=0
+  slides2: 
+  video:
+  notes:
+  readings:
+   - Sarch et al. <a href="https://arxiv.org/abs/2505.23678" target="_blank">Grounded Reinforcement Learning for Visual Reasoning</a>
+   - Sarch et al. <a href="https://arxiv.org/abs/2406.14596" target="_blank">VLM Agents Generate Their Own Memories </a>
+  logistics: 
+  
+- date: W 12/02
   lecturer:
   title: >
     <strong> Projects </strong>
@@ -566,7 +574,7 @@
 
   logistics:
 
-- date: W 12/02
+- date: F 12/04
   lecturer:
   title: >
     <strong> Projects </strong>
@@ -574,18 +582,18 @@
   video:
   notes:
   readings:
-  logistics: 
+  logistics: <span class="deadline"> Project Final Report due </span> <br> <span class="deadline"> HW7 Due </span>
 
-- date: F 12/04
-  lecturer:
-  title:
-  recitation: >
-    <strong> Course Review </strong>
-  slides: #https://drive.google.com/file/d/1c3yR8UWy600mO19eYTZL-pL4V1qjE-41/view?usp=sharing
-  video:
-  notes:
-  readings:
-  logistics: <span class="deadline"> Project Final Report due </span> <br>
+
+  # lecturer:
+  # title:
+  # recitation: >
+  #   <strong> Course Review </strong>
+  # slides: #https://drive.google.com/file/d/1c3yR8UWy600mO19eYTZL-pL4V1qjE-41/view?usp=sharing
+  # video:
+  # notes:
+  # readings:  
+  # logistics: 
 
 # - date: M 12/08
 #   lecturer:
