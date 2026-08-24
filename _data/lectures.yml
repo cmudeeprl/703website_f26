@@ -160,7 +160,7 @@
     # - <a href="https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf"> Approximately Optimal Approximate RL </a>
     # - <a href="https://arxiv.org/abs/1910.00177"> Advantage-weighted regression </a>
     # - <a href="https://arxiv.org/abs/1707.06347"> Proximal Policy Optimization Algorithms </a>
-  logistics: <span class="event"> HW3 Out </span>, <span class="deadline"> HW2 Due </span>
+  logistics: <span class="event"> HW3 Out </span> <br> <span class="deadline"> HW2 Due </span>
 
 - date: M 09/21
   lecturer: 
@@ -378,7 +378,7 @@
     - (optional) David Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
     - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
     - David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
-  logistics: <span class="deadline"> HW6 Out </span> <br> <span class="deadline"> HW5 Due </span>
+  logistics: <span class="event"> HW6 Out </span> <br> <span class="deadline"> HW5 Due </span>
 
 - date: W 10/28
   lecturer: 
