@@ -16,7 +16,7 @@
   lecturer: 
   title: >
     <strong>Introduction to Reinforcement Learning</strong>
-  slides: #https://drive.google.com/file/d/1B-zhUfhpnZAnHye92VK8vKhaBHGIs2by/view?usp=sharing
+  slides: https://drive.google.com/file/d/1LP7HfYMPdhLzofYrx5xY8T0M2urYxMMZ/view?usp=sharing
   slides2:
   video:
   notes:
@@ -44,7 +44,7 @@
   lecturer: 
   title: >
     <strong>Policy Gradient Methods </strong>
-  slides: #https://www.dropbox.com/scl/fi/wgm80d9kv4uezbb6yhig6/PG_F25.pdf?rlkey=ivscy52a2u96piohk84so9x1s&dl=0
+  slides: https://drive.google.com/file/d/1OrIecT9I3_59KkccEIgwOtAOQ2aaFdcd/view?usp=sharing
   video:
   notes:
   readings:
@@ -56,7 +56,7 @@
   lecturer: 
   title: >
     <strong>Actor-Critic Methods (cont.) Evolutionary Methods for Policy Search</strong>
-  slides: #https://www.dropbox.com/scl/fi/wgm80d9kv4uezbb6yhig6/PG_F25.pdf?rlkey=ivscy52a2u96piohk84so9x1s&dl=0
+  slides: https://drive.google.com/file/d/1AQj38c1nurZSbD_Zg9Z0RVobLPUTswl8/view?usp=sharing
   slides2: #https://www.dropbox.com/scl/fi/0yw9xsu8ld9gfd90toxy0/evolutionarymethods_F25.pdf?rlkey=wey3k9wswrp6vkfdb6v0whtfy&dl=0
   video:
   notes:
@@ -90,7 +90,7 @@
   lecturer: 
   title: >
     <strong>Value-based Methods</strong>
-  slides: #https://drive.google.com/file/d/1IDYQkudBASIt6pihxMtg_PVHQuH_KgV3/view?usp=sharing
+  slides: https://drive.google.com/file/d/1qHl-tVjZSXwWIBOghlTHOMkMBsYnJcZn/view?usp=sharing
   slides2: #https://drive.google.com/file/d/1uqiF066FOdmy9ZBIogGnzYrV0Fj9PAon/view?usp=sharing
   video:
   notes:
@@ -119,7 +119,7 @@
   lecturer: 
   title: >
     <strong>Value based methods (Cont.)</strong>
-  slides: #https://drive.google.com/file/d/1ggsDK2kQRpryZGIEsaRd0yq04Ux7k1m0/view?usp=sharing
+  slides: https://drive.google.com/file/d/1qXCSf8nKHqBL0IFDHl3MgbgX2I58v8BD/view?usp=sharing
   slides2: #https://drive.google.com/file/d/1urLD6LkJVIGkgvSbBhURRTffsHo5V19n/view?usp=sharing
   video:
   notes:
@@ -137,7 +137,7 @@
   title: >
     <strong> Advanced Policy Gradient Methods </strong>
   recitation: 
-  slides: #https://drive.google.com/file/d/1usgc5dQWHxS5cGUli_2h2ZYXPFSYZ5IY/view?usp=sharing
+  slides: https://drive.google.com/file/d/12iEzaQ9YVxA8-Z4nc7oXguevxA-QHg-_/view?usp=sharing
   video:
   notes:
   readings:
@@ -166,7 +166,7 @@
   lecturer: 
   title: >
     <strong> Advanced Policy Gradient Methods (Cont.)</strong>
-  slides: #https://drive.google.com/file/d/1utVQevOJm46laH_4eVel4DSiy9E1BnaD/view?usp=sharing
+  slides: https://drive.google.com/file/d/19hoX50Y_6_sSnD2fEQELUIuTYauhijpi/view?usp=sharing
   slides2: #https://drive.google.com/file/d/1uuEH-PXkCt4N5e4UnNFT0J6cqk_GqFp_/view?usp=sharing
   readings:
     -  <a href="https://arxiv.org/abs/1509.02971"> Continuous control with deep reinforcement learning </a>
@@ -181,7 +181,7 @@
   lecturer: 
   title: >
     <strong> Off-Policy Actor-Critic and Max-Ent RL </strong>
-  slides: #https://drive.google.com/file/d/1uv7pT_6lUfRNhwZrdi3AVSXuJ-QaMz2S/view?usp=sharing
+  slides: https://drive.google.com/file/d/1mZyuCvcKIBa58lOTFtjUhcHUMvaxgezM/view?usp=sharing
   slides2: #https://drive.google.com/file/d/1ux1VtaQDKj-EuEVQT6Vcss1j7gykelD1/view?usp=sharing
   readings:
     # - (optional) Chen et al. <a href="https://arxiv.org/abs/1912.12294" target="_blank">Learning by Cheating</a>
@@ -314,7 +314,7 @@
   lecturer: 
   title: >
     <strong> Offline RL </strong>
-  slides:    #https://www.dropbox.com/scl/fi/exp843p5zk9t7oohb96ne/MBRLexplicitF25.pdf?rlkey=k8wgi03prtqgac9qljyihopct&dl=0
+  slides: https://drive.google.com/file/d/1FZf1yHYXrdEJWItpv-A2560mTU1S9VEF/view?usp=sharing
   video:
   readings:
     - Kumar and Levine <a href="https://drive.google.com/file/d/1_aJxnlwLsJYup-__qKi-ZnujQho6ibDk/view"> Offline RL Tutorial, NeurIPS 2020 </a>
