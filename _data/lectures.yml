@@ -223,17 +223,11 @@
 - date: W 09/30
   lecturer: Max
   title: >
-    <strong> Offline RL </strong>
-  slides: https://drive.google.com/file/d/1FZf1yHYXrdEJWItpv-A2560mTU1S9VEF/view?usp=sharing
+    <strong> Imitation Learning and Diffusion </strong>
+  slides: #https://www.dropbox.com/scl/fi/59nr1azmj1dv71lzunjp4/immitationlearning_F25.pdf?rlkey=tbgdaxs7v4cilqaqau4blcyp8&dl=0
   video:
+  notes:
   readings:
-    - Kumar and Levine <a href="https://drive.google.com/file/d/1_aJxnlwLsJYup-__qKi-ZnujQho6ibDk/view"> Offline RL Tutorial, NeurIPS 2020 </a>
-    - Levine et al. <a href="https://arxiv.org/abs/2005.01643"> Offline Reinforcement Learning&#58; Tutorial, Review, and Perspectives on Open Problems </a>
-    - Kumar et al. <a href="https://arxiv.org/abs/1906.00949"> Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction </a>
-    # - Kumar et al. <a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-223.pdf"> Reinforcement Learning from Static Datasets (Chapters 1 to 5) </a>
-    - Fujimoto et al. <a href="https://arxiv.org/abs/2106.06860" target="_blank">A Minimalist Approach to Offline Reinforcement Learning</a>
-    # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
-    # - Kumar and Levine <a href="https://sites.google.com/view/offlinerltutorial-neurips2020/home"> Offline RL Tutorial, NeurIPS 2020 </a>  
   logistics: <span class="event"> Project Description Out </span> <br> <span class="event"> HW4 Out </span> <br> 
 
 - date: F 10/02
@@ -260,15 +254,17 @@
 - date: W 10/07
   lecturer: Max
   title: >
-     <strong>Reinforcement Learning & Generative Modeling </strong>
-  slides: #https://www.dropbox.com/scl/fi/ba0y88who40zcwa0fxkhh/Diffusion_policiesF25.pdf?rlkey=fcvqu2eqybrimlob4emqk0mc2&dl=0
-  slides2:
+    <strong> Offline RL </strong>
+  slides: https://drive.google.com/file/d/1FZf1yHYXrdEJWItpv-A2560mTU1S9VEF/view?usp=sharing
   video:
   readings:
-    # - Luo et al. <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
-    # - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
-    # - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV Reinforcement Learning of Physical Skills from Videos</a>
-    # - Baker et al. <a href="https://arxiv.org/abs/2206.11795" target="_blank">Video PreTraining (VPT):Learning to Act by Watching Unlabeled Online Videos</a>
+    - Kumar and Levine <a href="https://drive.google.com/file/d/1_aJxnlwLsJYup-__qKi-ZnujQho6ibDk/view"> Offline RL Tutorial, NeurIPS 2020 </a>
+    - Levine et al. <a href="https://arxiv.org/abs/2005.01643"> Offline Reinforcement Learning&#58; Tutorial, Review, and Perspectives on Open Problems </a>
+    - Kumar et al. <a href="https://arxiv.org/abs/1906.00949"> Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction </a>
+    # - Kumar et al. <a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-223.pdf"> Reinforcement Learning from Static Datasets (Chapters 1 to 5) </a>
+    - Fujimoto et al. <a href="https://arxiv.org/abs/2106.06860" target="_blank">A Minimalist Approach to Offline Reinforcement Learning</a>
+    # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    # - Kumar and Levine <a href="https://sites.google.com/view/offlinerltutorial-neurips2020/home"> Offline RL Tutorial, NeurIPS 2020 </a>  
   logistics: 
 
 
@@ -313,11 +309,15 @@
 - date: M 10/19
   lecturer: Max
   title: >
-    <strong> Imitation Learning and Diffusion </strong>
-  slides: #https://www.dropbox.com/scl/fi/59nr1azmj1dv71lzunjp4/immitationlearning_F25.pdf?rlkey=tbgdaxs7v4cilqaqau4blcyp8&dl=0
+     <strong>Reinforcement Learning & Generative Modeling </strong>
+  slides: #https://www.dropbox.com/scl/fi/ba0y88who40zcwa0fxkhh/Diffusion_policiesF25.pdf?rlkey=fcvqu2eqybrimlob4emqk0mc2&dl=0
+  slides2:
   video:
-  notes:
   readings:
+    # - Luo et al. <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
+    # - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
+    # - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV Reinforcement Learning of Physical Skills from Videos</a>
+    # - Baker et al. <a href="https://arxiv.org/abs/2206.11795" target="_blank">Video PreTraining (VPT):Learning to Act by Watching Unlabeled Online Videos</a>
   logistics: 
 
 
