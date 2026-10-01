@@ -168,7 +168,7 @@
   title: >
     <strong> Advanced Policy Gradient Methods (Cont.)</strong>
   slides: https://drive.google.com/file/d/19hoX50Y_6_sSnD2fEQELUIuTYauhijpi/view?usp=sharing
-  slides2: #https://drive.google.com/file/d/1uuEH-PXkCt4N5e4UnNFT0J6cqk_GqFp_/view?usp=sharing
+  slides2: https://drive.google.com/file/d/1-mLCyOaa6xYD9FIbI4Be6s2GpTeGCoqu/view?usp=sharing
   readings:
     -  <a href="https://arxiv.org/abs/1509.02971"> Continuous control with deep reinforcement learning </a>
     -  <a href="https://arxiv.org/abs/1802.09477"> Addressing Function Approximation Error in Actor-Critic Methods </a>    
@@ -254,7 +254,7 @@
 - date: W 10/07
   lecturer: Max
   title: >
-    <strong> Offline-to-Online RL </strong>
+    <strong> Offline and Offline-to-Online RL </strong>
   slides: https://drive.google.com/file/d/1FZf1yHYXrdEJWItpv-A2560mTU1S9VEF/view?usp=sharing
   video:
   readings:
