@@ -256,7 +256,7 @@
   lecturer: Max
   title: >
     <strong> Offline and Offline-to-Online RL </strong>
-  slides: https://drive.google.com/file/d/1FZf1yHYXrdEJWItpv-A2560mTU1S9VEF/view?usp=sharing
+  slides:  https://drive.google.com/file/d/1k2FB8SfEjOP-N9aeYVyevbtMAJ4pmA0N/view?usp=sharing #https://drive.google.com/file/d/1FZf1yHYXrdEJWItpv-A2560mTU1S9VEF/view?usp=sharing
   video:
   readings:
     - Kumar and Levine <a href="https://drive.google.com/file/d/1_aJxnlwLsJYup-__qKi-ZnujQho6ibDk/view"> Offline RL Tutorial, NeurIPS 2020 </a>
