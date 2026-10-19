@@ -450,17 +450,6 @@
   logistics:
   
 - date: W 11/11
-  lecturer: Katerina
-  title: >
-    <strong> Sim2Real Learning </strong>
-  slides: #https://www.dropbox.com/scl/fi/38q3itnsspybc1kpmzerk/sim2realF25.pdf?rlkey=wtiui4zdzlyd5xjclab8mqzix&dl=0
-  readings:
-    - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
-    - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
-    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
-  logistics: <span class="event"> HW6 Out </span> <br> <span class="deadline"> HW5 Due </span>
-   
-- date: F 11/13
   lecturer:
   title:
   recitation: >
@@ -469,6 +458,17 @@
   video:
   notes:
   readings:
+  logistics: <span class="event"> HW6 Out </span> <br> <span class="deadline"> HW5 Due </span>
+   
+- date: F 11/13
+  lecturer: Katerina
+  title: >
+    <strong> Sim2Real Learning </strong>
+  slides: #https://www.dropbox.com/scl/fi/38q3itnsspybc1kpmzerk/sim2realF25.pdf?rlkey=wtiui4zdzlyd5xjclab8mqzix&dl=0
+  readings:
+    - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
+    - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
+    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
   logistics: #<span class="deadline">HW6 Due</span> <br>
 
 - date: M 11/16  
