@@ -325,13 +325,16 @@
 - date: W 10/21
   lecturer: Katerina
   title: >
-    <strong>Model-based Methods</strong>
-  slides: #https://drive.google.com/file/d/16Qz-w5Si8gYiUHoZRKOlq322-Sii3xBt/view?usp=sharing
+    <strong>Planning with a known model, MCTS, AlphaGo,AlphaZero</strong>
+  slides: https://www.dropbox.com/scl/fi/fx355si0b0y28gkbp4rb8/MBRL_TreeSearchF26.pdf?rlkey=mxfy2y2t8m64ps5ez3736p1uo&dl=0 #https://drive.google.com/file/d/16Qz-w5Si8gYiUHoZRKOlq322-Sii3xBt/view?usp=sharing
   slides2:
   video:
   notes:
   readings:
-    - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank"> Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
+    - (optional) David Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
+    - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
+    - David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
+    # - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank"> Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
     # - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
     # - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
     # - Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">Model-based policy optimization</a>
@@ -379,9 +382,6 @@
   video:
   notes:
   readings:
-    - (optional) David Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
-    - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
-    - David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
   logistics: 
   
 - date: F 10/30
