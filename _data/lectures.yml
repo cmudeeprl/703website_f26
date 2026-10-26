@@ -328,12 +328,13 @@
     <strong>Planning with a known model, MCTS, AlphaGo,AlphaZero</strong>
   slides: https://www.dropbox.com/scl/fi/fx355si0b0y28gkbp4rb8/MBRL_TreeSearchF26.pdf?rlkey=mxfy2y2t8m64ps5ez3736p1uo&dl=0 #https://drive.google.com/file/d/16Qz-w5Si8gYiUHoZRKOlq322-Sii3xBt/view?usp=sharing
   slides2:
-  video:
+  video: https://www.youtube.com/watch?v=Gr_eYXdHFis
   notes:
   readings:
     - (optional) David Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
     - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
     - David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
+    - Guo et al. <a  href="https://papers.nips.cc/paper_files/paper/2014/file/88bf0c64edabeeb913c378227beef8f9-Paper.pdf" target="_blank">Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
     # - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank"> Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
     # - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
     # - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
@@ -355,15 +356,15 @@
 - date: M 10/26
   lecturer: Katerina
   title: >
-    <strong>Model-based Methods(Cont.)</strong>
-  slides: #https://drive.google.com/file/d/178E7o3ieShpKPfoFxSt_GAt7Q2BtUXSY/view?usp=sharing
+    <strong> Model-based RL </strong>
+  slides: https://www.dropbox.com/scl/fi/0r3fdyboc4qifdxzr1yer/MBRL_1_F26.pdf?rlkey=grkqr8h8k3lp0v4vjwy5kw666&dl=0 #https://drive.google.com/file/d/178E7o3ieShpKPfoFxSt_GAt7Q2BtUXSY/view?usp=sharing
   video:
   notes:
   readings:
     - (optional) Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
     - (optional) Kaiser et al. <a href="https://arxiv.org/abs/1903.00374" target="_blank"> Model-Based Reinforcement Learning for Atari </a>
     - Hansen et al. <a href="https://arxiv.org/abs/2203.04955" target="_blank">Temporal Difference Learning for Model Predictive Control</a>
-    # - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
+    - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
     # - Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">Model-based policy optimization</a>
     # - Hafner et al. <a href="https://arxiv.org/abs/2301.04104" target="_blank">Dreamer</a>
     # - Kumar et al. <a href="https://arxiv.org/abs/1906.00949"> Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction </a>
