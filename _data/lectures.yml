@@ -400,9 +400,10 @@
 - date: M 11/02
   lecturer: Katerina
   title: >
-    <strong>Model-based Methods for offline RL</strong>
-  slides: #https://drive.google.com/file/d/11Qm6qmXOn8nQxnWbUcDTLLjAavmdwi9g/view?usp=sharing
-  slides2: #https://www.dropbox.com/scl/fi/n5acn9s84fzyiyjzquo45/MBRL_offlineF25.pdf?rlkey=xks89l2vzoniue0gufljh6pq8&dl=0
+    <strong>Video Models, World Action Models, Particle Models</strong>
+  slides: https://drive.google.com/file/d/1Awec6V6yMhB5na1Rqg5DtmOlXrwlTd2I/view?usp=sharing
+  slides2: https://drive.google.com/file/d/1y0Uqi2qXBQ0viUIVMmLMnwz9ZVE7dsDu/view?usp=sharing
+  slides3: https://drive.google.com/file/d/1tqwigIC0KJm7t3DS21K4FO7ZHfR8ihWT/view?usp=sharing
   video:
   notes:
   readings:
