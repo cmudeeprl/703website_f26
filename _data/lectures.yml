@@ -400,13 +400,14 @@
 - date: M 11/02
   lecturer: Katerina
   title: >
-    <strong>Video Models, World Action Models, Particle Models</strong>
+    <strong>Video World Models, Video-Action World Models</strong>
   slides: https://drive.google.com/file/d/1tqwigIC0KJm7t3DS21K4FO7ZHfR8ihWT/view?usp=sharing
   slides2: https://drive.google.com/file/d/1Awec6V6yMhB5na1Rqg5DtmOlXrwlTd2I/view?usp=sharing
-  slides3: https://drive.google.com/file/d/1y0Uqi2qXBQ0viUIVMmLMnwz9ZVE7dsDu/view?usp=sharing
   video:
   notes: 
   readings:
+    - Ye et al. <a href="https://arxiv.org/abs/2602.15922" target="_blank">World Action Models are Zero-shot Policies</a>
+    - Yang et al. <a href="https://universal-simulator.github.io/unisim/" target="_blank">UniSim&#58; Learning Interactive Real-World Simulators</a>
     # - Julian Schrittwieser et al. <a href="https://arxiv.org/abs/1911.08265" target="_blank">Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model</a>
     # - Julian Schrittwieser et al. <a href="https://arxiv.org/abs/2104.06294" target="_blank">Online and Offline Reinforcement Learning by Planning with a Learned Model</a>
     # - Kumar et al. <a href="https://arxiv.org/abs/2006.04779" target="_blank">Conservative Q-Learning for Offline Reinforcement Learning</a>
@@ -417,13 +418,16 @@
 - date: W 11/04
   lecturer: Katerina
   title: >
-    <strong> Guided Diffusion </strong>
-  slides: #https://www.dropbox.com/scl/fi/n5acn9s84fzyiyjzquo45/MBRL_offlineF25.pdf?rlkey=xks89l2vzoniue0gufljh6pq8&dl=0
+    <strong> Particle World Models, Exploration Slides </strong>
+  slides: https://www.dropbox.com/scl/fi/j8p8vuh56n2om4oadw8eq/GenerativeParticleWorlsModels.pdf?rlkey=vrtsw4e4t19y66ykqzs2vcrq7&dl=0
+  slides2: https://www.dropbox.com/scl/fi/ivbbanizqxgob8xr408uk/deepexplorationF26.pdf?rlkey=8uogp15qxg2dndq9ep15z1imk&dl=0
   video:
   notes:
   readings:
-    - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
-    - (optional) Yang et al. <a href="https://arxiv.org/abs/2402.06559" target="_blank">Diffusion-ES Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following</a>  
+    - Pathak et al. <a href="https://arxiv.org/abs/1705.05363" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
+    - Burda et al. <a href="https://arxiv.org/abs/1810.12894" target="_blank">Exploration by Random Network Distillation</a>
+    # - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
+    # - (optional) Yang et al. <a href="https://arxiv.org/abs/2402.06559" target="_blank">Diffusion-ES Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following</a>  
     
   logistics:  #<span class="event">HW6 Out</span> <br>
 
@@ -448,8 +452,6 @@
   video:
   notes:
   readings:
-    - Pathak et al. <a href="https://arxiv.org/abs/1705.05363" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
-    - Burda et al. <a href="https://arxiv.org/abs/1810.12894" target="_blank">Exploration by Random Network Distillation</a>
   logistics:
   
 - date: W 11/11
