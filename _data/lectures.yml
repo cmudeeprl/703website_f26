@@ -401,10 +401,11 @@
   lecturer: Katerina
   title: >
     <strong>Video Models, World Action Models, Particle Models</strong>
-  slides: https://drive.google.com/file/d/1Awec6V6yMhB5na1Rqg5DtmOlXrwlTd2I/view?usp=sharing
-  slides2: https://drive.google.com/file/d/1y0Uqi2qXBQ0viUIVMmLMnwz9ZVE7dsDu/view?usp=sharing
+  slides: https://drive.google.com/file/d/1tqwigIC0KJm7t3DS21K4FO7ZHfR8ihWT/view?usp=sharing
+  slides2: https://drive.google.com/file/d/1Awec6V6yMhB5na1Rqg5DtmOlXrwlTd2I/view?usp=sharing
+  slides3: https://drive.google.com/file/d/1y0Uqi2qXBQ0viUIVMmLMnwz9ZVE7dsDu/view?usp=sharing
   video:
-  notes: https://drive.google.com/file/d/1tqwigIC0KJm7t3DS21K4FO7ZHfR8ihWT/view?usp=sharing
+  notes: 
   readings:
     # - Julian Schrittwieser et al. <a href="https://arxiv.org/abs/1911.08265" target="_blank">Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model</a>
     # - Julian Schrittwieser et al. <a href="https://arxiv.org/abs/2104.06294" target="_blank">Online and Offline Reinforcement Learning by Planning with a Learned Model</a>
