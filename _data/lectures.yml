@@ -563,37 +563,47 @@
    - Sarch et al. <a href="https://arxiv.org/abs/2406.14596" target="_blank">VLM Agents Generate Their Own Memories </a>
   logistics: 
   
-- date: W 12/02
+- date: T 12/01
   lecturer:
-  title: >
-    <strong> Projects </strong>
+  quiz: >
+    <strong> Project Video Due </strong>
   slides: #https://drive.google.com/file/d/15-5H22Lb25ReF3EJA7UObPD3c6Dzr83R/view?usp=sharing
   video:
   notes:
   readings:
+  logistics: <span class="deadline"> Project Video Due </span>
 
+
+- date: W 12/02
+  lecturer:
+  quiz: >
+    <strong> Project Presentations </strong>
+  slides: #https://drive.google.com/file/d/15-5H22Lb25ReF3EJA7UObPD3c6Dzr83R/view?usp=sharing
+  video:
+  notes:
+  readings:
   logistics:
 
 - date: F 12/04
   lecturer:
-  title: >
-    <strong> Projects </strong>
+  quiz: >
+    <strong> Project Presentations </strong>
   slides: 
   video:
   notes:
   readings:
   logistics: <span class="deadline"> HW7 Due </span>
 
-- date: M 12/07 - F 12/11
+- date: T 12/08
   lecturer:
   title:
   quiz: >
-    <strong> Project Final Report due (During Finals Week) </strong>
+    <strong> Project Final Report Due (During Finals Week) </strong>
   slides: #https://drive.google.com/file/d/1c3yR8UWy600mO19eYTZL-pL4V1qjE-41/view?usp=sharing
   video:
   notes:
   readings:  
-  logistics: 
+  logistics: <span class="deadline"> Project Final Report due </span> <br>
 
 # - date: M 12/08
 #   lecturer:
