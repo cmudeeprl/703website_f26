@@ -447,11 +447,13 @@
   lecturer: Katerina
   title: >
     <strong> Exploration </strong>
-  slides: #https://www.dropbox.com/scl/fi/v58zkjyohf4kx14vsrmzc/deepexplorationF25_2.pdf?rlkey=lztprnzdsddt44ux8v5785ga0&dl=0
-  slides2:
+  slides: https://www.dropbox.com/scl/fi/j8p8vuh56n2om4oadw8eq/GenerativeParticleWorlsModels.pdf?rlkey=vrtsw4e4t19y66ykqzs2vcrq7&dl=0
+  slides2: https://www.dropbox.com/scl/fi/ivbbanizqxgob8xr408uk/deepexplorationF26.pdf?rlkey=8uogp15qxg2dndq9ep15z1imk&dl=0
   video:
   notes:
   readings:
+    - Pathak et al. <a href="https://arxiv.org/abs/1705.05363" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
+    - Burda et al. <a href="https://arxiv.org/abs/1810.12894" target="_blank">Exploration by Random Network Distillation</a>
   logistics:
   
 - date: W 11/11
