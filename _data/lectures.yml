@@ -471,11 +471,14 @@
   lecturer: Katerina
   title: >
     <strong> Sim2Real Learning </strong>
-  slides: #https://www.dropbox.com/scl/fi/38q3itnsspybc1kpmzerk/sim2realF25.pdf?rlkey=wtiui4zdzlyd5xjclab8mqzix&dl=0
+  slides: https://www.dropbox.com/scl/fi/ffzhvwzp31m9app04abmi/sim2realF26.pdf?rlkey=3x8tbl4jrxwejnk9bb5izx9vf&dl=0
   readings:
-    - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
-    - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
-    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
+    - Zhang et al. <a href="https://arxiv.org/abs/2509.13833" target="_blank">Track Any Motions under Any Disturbances</a>
+    - Burda et al. <a href="https://arxiv.org/abs/1810.12894" target="_blank">Exploration by Random Network Distillation</a>
+    - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore&#58; a New Approach for Hard-Exploration Problems</a>
+    # - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
+    # - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
+    # - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
   logistics: #<span class="deadline">HW6 Due</span> <br>
 
 - date: M 11/16  
