@@ -485,9 +485,9 @@
 - date: M 11/16  
   lecturer: Katerina
   title: >
-    <strong> Sim2Real Learning (Cont.) R</strong>
-  slides: #https://www.dropbox.com/scl/fi/38q3itnsspybc1kpmzerk/sim2realF25.pdf?rlkey=wtiui4zdzlyd5xjclab8mqzix&dl=0
-  slides2: 
+    <strong> Foundation Models and RL </strong>
+  slides: https://www.dropbox.com/scl/fi/ff6bgxncynzadrew7bu06/FoundationModelsforPromptingF26.pdf?rlkey=ru9z3f3nrbdwc3y4xmxj9zzrz&dl=0
+  slides2: https://www.dropbox.com/scl/fi/p99fu8eo19pmnt6grzb9h/SkillWeaver.pdf?rlkey=u3oo3qw39zwxmxoflq7rqoue4&dl=0
   video:
   notes:
   readings:
