@@ -476,7 +476,7 @@
   slides: https://www.dropbox.com/scl/fi/ffzhvwzp31m9app04abmi/sim2realF26.pdf?rlkey=3x8tbl4jrxwejnk9bb5izx9vf&dl=0
   readings:
     - Zhang et al. <a href="https://arxiv.org/abs/2509.13833" target="_blank">Track Any Motions under Any Disturbances</a>
-    - Burda et al. <a href="https://arxiv.org/abs/1810.12894" target="_blank">Exploration by Random Network Distillation</a>
+    # - Burda et al. <a href="https://arxiv.org/abs/1810.12894" target="_blank">Exploration by Random Network Distillation</a>
     - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
     - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
     - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
@@ -499,15 +499,16 @@
 - date: W 11/18
   lecturer: Katerina
   title: >
-    <strong> RL with Foundation Models </strong>
-  quiz: 
-  slides: #https://drive.google.com/file/d/1-U1V7FiUD70YQMB-ODculPx4NGsMOckV/view?usp=sharing
+    <strong> RL for Language Models </strong>
+  slides: https://www.dropbox.com/scl/fi/0qfe59vfpda125fbu9n2f/RLforFoundationModelsF26.pdf?rlkey=hgmza8706p3bwys5xrag18h80&dl=0
   video:
   notes:
   readings:
     - Ouyang et al. <a href="https://arxiv.org/abs/2203.02155" target="_blank">Training language models to follow instructions with human feedback</a>
-    - Slides <a href="https://web.stanford.edu/class/cs234/CS234Spr2024/slides/dpo_slides.pdf" target="_blank">Direct Preference Optimization&#58; A New RLHF Approach</a>
-    - Xu et al. <a href="https://arxiv.org/abs/2404.10719" target="_blank">Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study</a>    
+    - Rafailov et al. <a href="https://arxiv.org/abs/2305.18290" target="_blank"> Direct Preference Optimization&#58; Your Language Model is Secretly a Reward Model</a>
+    - Sarch et al. <a href="https://arxiv.org/abs/2505.23678" target="_blank">Grounded Reinforcement Learning for Visual Reasoning</a>
+    # - Slides <a href="https://web.stanford.edu/class/cs234/CS234Spr2024/slides/dpo_slides.pdf" target="_blank">Direct Preference Optimization&#58; A New RLHF Approach</a>
+    # - Xu et al. <a href="https://arxiv.org/abs/2404.10719" target="_blank">Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study</a>    
   logistics: <span class="deadline"> Project Midway Report Due </span> <br>
 
 - date: F 11/20
@@ -565,7 +566,6 @@
   video:
   notes:
   readings:
-   - Sarch et al. <a href="https://arxiv.org/abs/2505.23678" target="_blank">Grounded Reinforcement Learning for Visual Reasoning</a>
    - Sarch et al. <a href="https://arxiv.org/abs/2406.14596" target="_blank">VLM Agents Generate Their Own Memories </a>
   logistics: 
 
