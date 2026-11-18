@@ -568,13 +568,6 @@
    - Sarch et al. <a href="https://arxiv.org/abs/2505.23678" target="_blank">Grounded Reinforcement Learning for Visual Reasoning</a>
    - Sarch et al. <a href="https://arxiv.org/abs/2406.14596" target="_blank">VLM Agents Generate Their Own Memories </a>
   logistics: 
-  
-- date: T 12/01
-  lecturer:
-  quiz: >
-    <strong> Project Video Due </strong>
-  logistics: <span class="deadline"> Project Video Due </span>
-
 
 - date: W 12/02
   lecturer:
@@ -588,6 +581,12 @@
     <strong> Project Poster Presentations </strong>
   logistics: <span class="deadline"> HW7 Due </span>
 
+- date: M 12/07
+  lecturer:
+  quiz: >
+    <strong> Project Video Due </strong>
+  logistics: <span class="deadline"> Project Video Due </span>
+  
 - date: T 12/08
   lecturer:
   quiz: >
